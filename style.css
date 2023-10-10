@@ -1,0 +1,40 @@
+html {
+	background-image: url("img/palco.jpg");
+	background-size: cover;
+	color: #fff;
+}
+
+h1 {
+	text-align: center;
+}
+
+#gamon {
+	display: flex;
+	text-align: center;
+	max-width: 500px;
+	max-height: 500px;
+	padding: 10px;
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 100px;
+}
+
+#members {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	max-width: 200px;
+	max-height: 300px;
+	padding: 10px;
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 550px;
+}
+
+.member {
+	padding: 10px;
+}
+
+.pfp {
+	max-width: 175px;
+}
